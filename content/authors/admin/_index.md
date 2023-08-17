@@ -5,7 +5,7 @@ education:
   - course: PhD in Pharmaceutical Sciences
     institution: UNC Chapel Hill
     year: 2025
-  - course: MPH in Environmental Health Sciences (Advanced Certificate in Toxicology)
+  - course: MPH in Environmental Health Sciences  (Advanced Certificate in Toxicology)
     institution: Columbia University
     year: 2020
   - course: Post Graduate Diploma in Clinical Research
@@ -29,7 +29,7 @@ role: Graduate Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: /#
 - display:
     header: true
   icon: twitter
@@ -54,5 +54,5 @@ superuser: true
 title: Meethila Gade
 ---
 
-Hello all! I am a 4th year PhD student at the Heinzen Lab at the Eshelman School of Pharmacy, UNC Chapel Hill . My research interests include neuroscience, genomics and computational biology. My current research involves studying the role of somatic mutations in neurodevelopmental disorders using single cell RNA sequencing. 
+Hello! I am a 4th year PhD student in the Heinzen Lab at the Eshelman School of Pharmacy, UNC Chapel Hill . My research interests include neuroscience, genomics and computational biology. My current research involves studying the role of somatic mutations in neurodevelopmental disorders using single cell RNA sequencing. 
 {style="text-align: justify;"}
