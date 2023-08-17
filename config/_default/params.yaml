@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Meethila Gade's personal website.'
-    twitter: 'meethilagade1'
+    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    twitter: 'wowchemy'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -45,11 +45,11 @@ header:
 
 footer:
   copyright:
-    notice: '© {2023} Me. This work is licensed under {license}'
+    notice: '© {year} Me. This work is licensed under {license}'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/brain-discourse/'
+    url: 'https://github.com/brain-discourse/brain-discourse'
     content_dir: content
     branch: main
   avatar:
@@ -114,3 +114,4 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+ 
