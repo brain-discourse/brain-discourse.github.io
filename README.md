@@ -1,2 +1,2 @@
-# meethila.github.io
+# brain-discourse.github.io
 Personal website
