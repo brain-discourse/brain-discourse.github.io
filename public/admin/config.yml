@@ -7,13 +7,13 @@ collections:
   fields:
   - label: Widget Type (https://wowchemy.com/docs/page-builder/)
     name: widget
-    required: false
+    required: true
     widget: string
   - default: my-widget-123
     label: Your reference for this widget (e.g. recent-posts)
     name: widget_id
     widget: string
-  - default: false
+  - default: true
     label: Headless?
     name: headless
     widget: hidden

@@ -1,35 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Meethila Gade</title>
     <link>https://brain-discourse.github.io/</link>
       <atom:link href="https://brain-discourse.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <description>Meethila Gade</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://brain-discourse.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
+      <url>https://brain-discourse.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Meethila Gade</title>
       <link>https://brain-discourse.github.io/</link>
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://brain-discourse.github.io/talk/example-talk/</link>
+      <title>Determining Single-cell Transcriptomic Signatures in Mosaic Epileptogenic Human Brain Tissue</title>
+      <link>https://brain-discourse.github.io/past-events/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://brain-discourse.github.io/talk/example-talk/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+      <guid>https://brain-discourse.github.io/past-events/example/</guid>
+      <description>&lt;p&gt;ABSTRACT:
+Rationale: Somatic variants acquired post-zygotically during embryonic cortical development are known to contribute to epilepsy-associated cortical brain malformations. The mosaic brain tissue surgically resected from affected individuals offers a unique opportunity to determine the burden of mutation across cell types, as well as the transcriptional effects of the mutation in specific cell types. However, simultaneous assessments of DNA and RNA from single cells required to harness this potential remain technically challenging. Here we describe a novel method that uses parallel single-cell genotyping and comprehensive transcriptomic profiling to study the cellular heterogeneity in mosaic epileptogenic brain tissue.&lt;/p&gt;
+&lt;p&gt;Methods: Adapted from the G&amp;amp;Tseq protocol,1 we developed and optimized a method to simultaneously isolate DNA and RNA from single cells to identify the transcriptomic signature in single nuclei with and without the mutation (Figure 1). We benchmarked the protocol by comparing nuclei isolated from surgically resected brain tissue of a patient with hemimegalencephaly harboring a pathogenic somatic variant in PIK3CA (E545K) to an age-matched control sample. A fluorescently-labeled antibody against NeuN was used to isolate neuronal nuclei from the tissue specimens using fluorescence-activated nuclear sorting. Bulk (n=20,000 nuclei/total nuclei) and single nuclei (n=44 NeuN+ nuclei/sample) were collected for the case and control sample. RNA and DNA were isolated from single nuclei and bulk nuclei preparations. RNAseq was performed at a sequencing depth of 15 million (mil) reads/sample for NeuN- and NeuN+ bulk nuclei collections and for the 88 NeuN+ single nuclei from the case and control samples. Genotyping of amplified DNA was used to identify the mutation-positive cells using droplet digital PCR and a custom-designed TaqMan genotyping assay.&lt;/p&gt;
+&lt;p&gt;Results: We saw a variant allele fraction of 30% (NeuN+) and 35% (NeuN-) in bulk nuclei collections from the mosaic PIK3CA brain tissue sample, which correlated with that seen in single nuclei. RNA from bulk nuclei populations consistently yielded ~10 mil uniquely mapped reads (UMR). We observed a transcriptomic signature consistent with an upregulation of the mTOR signaling pathway in both NeuN- and NeuN+ bulk nuclei in cases compared to controls. In addition, we found a transcriptomic signature associated with PIK3CA variants specific to NeuN+ nuclei in the CREB phosphorylation pathway. On average, we obtained ~5 mil UMRs per nuclei (80,000-13 mil, with &amp;gt;50% of cells achieving &amp;gt; than 5 mil UMRs per cell). Analysis of genotype-informed single nuclei RNAseq is ongoing.&lt;/p&gt;
+&lt;p&gt;Conclusions: This optimized approach for simultaneous single-cell genotyping and comprehensive cDNA sequencing will be a valuable tool for identifying cell type specific transcriptional profiles associated with recently identified epilepsy-associated mosaic mutations in human brain tissue and may guide us to novel therapeutic targets for treating intractable seizures.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Somatic variants in diverse genes leads to a spectrum of focal cortical malformations</title>
+      <link>https://brain-discourse.github.io/publication/journal-article/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://brain-discourse.github.io/publication/journal-article/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -257,7 +258,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-438217695&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-587632194&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -267,7 +268,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-438217695&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-587632194&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -746,15 +747,6 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>https://brain-discourse.github.io/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://brain-discourse.github.io/privacy/</guid>
-      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Terms</title>
       <link>https://brain-discourse.github.io/terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
@@ -782,25 +774,6 @@ $$&lt;/p&gt;
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://brain-discourse.github.io/project/external-project/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://brain-discourse.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://brain-discourse.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>
