@@ -77,6 +77,7 @@ sections:
       folders:
       - publication
     title: Publications
+    id: publication
   design:
     columns: "2"
     view: citation
@@ -90,21 +91,7 @@ sections:
   design:
     columns: "2"
     view: card
-- block: collection
-  content:
-    filters:
-      folders:
-      - Past events
-    title: Recent talks
-  design:
-    columns: "2"
-    view: compact
-  id: talks
-- block: tag_cloud
-  content:
-    title: Popular Topics
-  design:
-    columns: "2"
+    id: Posters
 - block: contact
   content:
     address:
