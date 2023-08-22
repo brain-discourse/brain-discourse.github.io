@@ -5,7 +5,7 @@
     <link>https://brain-discourse.github.io/tag/epilepsy/</link>
       <atom:link href="https://brain-discourse.github.io/tag/epilepsy/index.xml" rel="self" type="application/rss+xml" />
     <description>Epilepsy</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://brain-discourse.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Epilepsy</title>
@@ -13,10 +13,41 @@
     </image>
     
     <item>
+      <title>Determining Single-cell Transcriptomic Signatures in Mosaic Epileptogenic Human Brain Tissue</title>
+      <link>https://brain-discourse.github.io/posters/aes-2022/</link>
+      <pubDate>Thu, 01 Dec 2022 13:00:00 +0000</pubDate>
+      <guid>https://brain-discourse.github.io/posters/aes-2022/</guid>
+      <description>&lt;p&gt;Abstract:
+Rationale: Somatic variants acquired post-zygotically during embryonic cortical development are known to contribute to epilepsy-associated cortical brain malformations. The mosaic brain tissue surgically resected from affected individuals offers a unique opportunity to determine the burden of mutation across cell types, as well as the transcriptional effects of the mutation in specific cell types. However, simultaneous assessments of DNA and RNA from single cells required to harness this potential remain technically challenging. Here we describe a novel method that uses parallel single-cell genotyping and comprehensive transcriptomic profiling to study the cellular heterogeneity in mosaic epileptogenic brain tissue.&lt;/p&gt;
+&lt;p&gt;Methods: Adapted from the G&amp;amp;Tseq protocol,1 we developed and optimized a method to simultaneously isolate DNA and RNA from single cells to identify the transcriptomic signature in single nuclei with and without the mutation (Figure 1). We benchmarked the protocol by comparing nuclei isolated from surgically resected brain tissue of a patient with hemimegalencephaly harboring a pathogenic somatic variant in PIK3CA (E545K) to an age-matched control sample. A fluorescently-labeled antibody against NeuN was used to isolate neuronal nuclei from the tissue specimens using fluorescence-activated nuclear sorting. Bulk (n=20,000 nuclei/total nuclei) and single nuclei (n=44 NeuN+ nuclei/sample) were collected for the case and control sample. RNA and DNA were isolated from single nuclei and bulk nuclei preparations. RNAseq was performed at a sequencing depth of 15 million (mil) reads/sample for NeuN- and NeuN+ bulk nuclei collections and for the 88 NeuN+ single nuclei from the case and control samples. Genotyping of amplified DNA was used to identify the mutation-positive cells using droplet digital PCR and a custom-designed TaqMan genotyping assay.&lt;/p&gt;
+&lt;p&gt;Results: We saw a variant allele fraction of 30% (NeuN+) and 35% (NeuN-) in bulk nuclei collections from the mosaic PIK3CA brain tissue sample, which correlated with that seen in single nuclei. RNA from bulk nuclei populations consistently yielded ~10 mil uniquely mapped reads (UMR). We observed a transcriptomic signature consistent with an upregulation of the mTOR signaling pathway in both NeuN- and NeuN+ bulk nuclei in cases compared to controls. In addition, we found a transcriptomic signature associated with PIK3CA variants specific to NeuN+ nuclei in the CREB phosphorylation pathway. On average, we obtained ~5 mil UMRs per nuclei (80,000-13 mil, with &amp;gt;50% of cells achieving &amp;gt; than 5 mil UMRs per cell). Analysis of genotype-informed single nuclei RNAseq is ongoing.&lt;/p&gt;
+&lt;p&gt;Conclusions: This optimized approach for simultaneous single-cell genotyping and comprehensive cDNA sequencing will be a valuable tool for identifying cell type specific transcriptional profiles associated with recently identified epilepsy-associated mosaic mutations in human brain tissue and may guide us to novel therapeutic targets for treating intractable seizures.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Leveraging Mosaic Epileptogenic Human Brain Tissue to Study Cell-type Specific Transcriptional Changes Associated with a Pathogenic PIK3CA Variant</title>
+      <link>https://brain-discourse.github.io/posters/ashg-2022/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://brain-discourse.github.io/posters/ashg-2022/</guid>
+      <description>&lt;p&gt;Abstract: Post-zygotically acquired mutations that arise during embryonic cortical development can lead to abnormal neuron morphology and/or migration defects, both of which can often result in seizures and
+developmental disabilities. Somatic mutations that cause abnormal activation of proteins in the PI3K-AKT-mTOR signaling pathway have been implicated in focal cortical dysplasia type 2 and hemimegalencephaly (HMEG). Surgically resected mosaic brain tissue from affected individuals offers a
+unique opportunity to determine the burden of mutations and transcriptional effects of the mutations across cell types. To tease apart the transcriptional effects of the mutation within cell types, we modified
+the G&amp;amp;Tseq protocol to simultaneously perform single-cell genotyping and transcriptomic profiling to identify the comprehensive transcriptomic signature of mutation-positive and mutation-negative nuclei.
+We benchmarked the protocol by comparing nuclei isolated from surgically resected brain tissue of a patient with HMEG harboring a pathogenic somatic variant in PIK3CA (E545K) to an age-matched control. We used a fluorescently labeled NeuN antibody to sort neuronal and non-neuronal nuclei for bulk
+(n=20,000 nuclei/total nuclei) and single-cell (n=44 NeuN+ nuclei/sample) preparations. RNA extracted from bulk (NeuN+ and NeuN-) and single NeuN+ nuclei for both cases and controls was sequenced at a depth of 15 million (MM) reads/sample. In parallel, DNA was genotyped in mutation-positive bulk and
+single nuclei using droplet digital PCR and TaqMan genotyping assay, respectively. A variant allele fraction of 30% (NeuN+) and 35% (NeuN-) was observed in bulk samples from the mosaic PIK3CA tissue, which correlated with that observed in single nuclei. RNA from bulk nuclei populations consistently yielded ~10 MM uniquely mapped reads (UMR) while RNA from single nuclei
+yielded ~5-10 MM UMR. Transcriptomic analysis of bulk nuclei (NeuN- &amp;amp; NeuN+) and single nuclei (NeuN+) confirmed the activation of the mTOR pathway. We also observed transcriptomic signature associated with PIK3CA variants specific to NeuN+ bulk and single nuclei; namely, the CREB phosphorylation pathway and an upregulation of SPDYE5, a gene implicated in low-grade glioma.
+Analyses of genotype-informed single nuclei RNAseq are currently underway. This approach will allow for novel insights into the impact of pathogenic somatic mutations on cell-autonomous and non-cellautonomous functions, high-resolution assessments of cell-type-specific mutation burden, and may help
+identify antiseizure targets for treating mTOR related intractable seizures.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Somatic variants in diverse genes leads to a spectrum of focal cortical malformations</title>
-      <link>https://brain-discourse.github.io/publication/journal-article/</link>
+      <link>https://brain-discourse.github.io/publication/journal-article/brain/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://brain-discourse.github.io/publication/journal-article/</guid>
+      <guid>https://brain-discourse.github.io/publication/journal-article/brain/</guid>
       <description></description>
     </item>
     
