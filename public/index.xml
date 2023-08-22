@@ -14,19 +14,6 @@
     
     <item>
       <title>Determining Single-cell Transcriptomic Signatures in Mosaic Epileptogenic Human Brain Tissue</title>
-      <link>https://brain-discourse.github.io/past-events/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://brain-discourse.github.io/past-events/example/</guid>
-      <description>&lt;p&gt;ABSTRACT:
-Rationale: Somatic variants acquired post-zygotically during embryonic cortical development are known to contribute to epilepsy-associated cortical brain malformations. The mosaic brain tissue surgically resected from affected individuals offers a unique opportunity to determine the burden of mutation across cell types, as well as the transcriptional effects of the mutation in specific cell types. However, simultaneous assessments of DNA and RNA from single cells required to harness this potential remain technically challenging. Here we describe a novel method that uses parallel single-cell genotyping and comprehensive transcriptomic profiling to study the cellular heterogeneity in mosaic epileptogenic brain tissue.&lt;/p&gt;
-&lt;p&gt;Methods: Adapted from the G&amp;amp;Tseq protocol,1 we developed and optimized a method to simultaneously isolate DNA and RNA from single cells to identify the transcriptomic signature in single nuclei with and without the mutation (Figure 1). We benchmarked the protocol by comparing nuclei isolated from surgically resected brain tissue of a patient with hemimegalencephaly harboring a pathogenic somatic variant in PIK3CA (E545K) to an age-matched control sample. A fluorescently-labeled antibody against NeuN was used to isolate neuronal nuclei from the tissue specimens using fluorescence-activated nuclear sorting. Bulk (n=20,000 nuclei/total nuclei) and single nuclei (n=44 NeuN+ nuclei/sample) were collected for the case and control sample. RNA and DNA were isolated from single nuclei and bulk nuclei preparations. RNAseq was performed at a sequencing depth of 15 million (mil) reads/sample for NeuN- and NeuN+ bulk nuclei collections and for the 88 NeuN+ single nuclei from the case and control samples. Genotyping of amplified DNA was used to identify the mutation-positive cells using droplet digital PCR and a custom-designed TaqMan genotyping assay.&lt;/p&gt;
-&lt;p&gt;Results: We saw a variant allele fraction of 30% (NeuN+) and 35% (NeuN-) in bulk nuclei collections from the mosaic PIK3CA brain tissue sample, which correlated with that seen in single nuclei. RNA from bulk nuclei populations consistently yielded ~10 mil uniquely mapped reads (UMR). We observed a transcriptomic signature consistent with an upregulation of the mTOR signaling pathway in both NeuN- and NeuN+ bulk nuclei in cases compared to controls. In addition, we found a transcriptomic signature associated with PIK3CA variants specific to NeuN+ nuclei in the CREB phosphorylation pathway. On average, we obtained ~5 mil UMRs per nuclei (80,000-13 mil, with &amp;gt;50% of cells achieving &amp;gt; than 5 mil UMRs per cell). Analysis of genotype-informed single nuclei RNAseq is ongoing.&lt;/p&gt;
-&lt;p&gt;Conclusions: This optimized approach for simultaneous single-cell genotyping and comprehensive cDNA sequencing will be a valuable tool for identifying cell type specific transcriptional profiles associated with recently identified epilepsy-associated mosaic mutations in human brain tissue and may guide us to novel therapeutic targets for treating intractable seizures.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Determining Single-cell Transcriptomic Signatures in Mosaic Epileptogenic Human Brain Tissue</title>
       <link>https://brain-discourse.github.io/posters/aes-2022/</link>
       <pubDate>Thu, 01 Dec 2022 13:00:00 +0000</pubDate>
       <guid>https://brain-discourse.github.io/posters/aes-2022/</guid>
@@ -58,17 +45,17 @@ identify antiseizure targets for treating mTOR related intractable seizures.&lt;
     
     <item>
       <title>Somatic variants in diverse genes leads to a spectrum of focal cortical malformations</title>
-      <link>https://brain-discourse.github.io/publication/journal-article/brain/</link>
+      <link>https://brain-discourse.github.io/publication/brain/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://brain-discourse.github.io/publication/journal-article/brain/</guid>
+      <guid>https://brain-discourse.github.io/publication/brain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sex-specific neurotoxic effects of heavy metal pollutants:Epidemiological, experimental evidence and candidate mechanisms</title>
-      <link>https://brain-discourse.github.io/publication/journal-article/ehs/</link>
+      <link>https://brain-discourse.github.io/publication/ehs/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://brain-discourse.github.io/publication/journal-article/ehs/</guid>
+      <guid>https://brain-discourse.github.io/publication/ehs/</guid>
       <description></description>
     </item>
     
@@ -297,7 +284,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-741692835&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-814725936&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -307,7 +294,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-741692835&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-814725936&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -588,20 +575,6 @@ Crash --&gt; [*]
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://brain-discourse.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://brain-discourse.github.io/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Display Jupyter Notebooks with Academic</title>
       <link>https://brain-discourse.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -782,15 +755,6 @@ $$&lt;/p&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>https://brain-discourse.github.io/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://brain-discourse.github.io/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     

@@ -77,10 +77,10 @@ sections:
       folders:
       - publication
     title: Publications
-    id: publication
   design:
     columns: "2"
     view: citation
+  id: publication
 - block: collection
   content:
     filters:
@@ -91,7 +91,7 @@ sections:
   design:
     columns: "2"
     view: card
-    id: Posters
+  id: Posters
 - block: contact
   content:
     address:
