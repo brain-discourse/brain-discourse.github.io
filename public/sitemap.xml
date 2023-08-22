@@ -10,6 +10,38 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://brain-discourse.github.io/posters/aes-2022/</loc>
+    <lastmod>2022-12-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/tag/epilepsy/</loc>
+    <lastmod>2022-12-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/posters/</loc>
+    <lastmod>2022-12-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/tag/somatic-mutations/</loc>
+    <lastmod>2022-12-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/tags/</loc>
+    <lastmod>2022-12-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/publication-type/1/</loc>
+    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/posters/ashg-2022/</loc>
+    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/publication_types/</loc>
+    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://brain-discourse.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -18,15 +50,7 @@
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://brain-discourse.github.io/tag/epilepsy/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://brain-discourse.github.io/tag/neurodevelopment/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brain-discourse.github.io/publication_types/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -34,16 +58,36 @@
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://brain-discourse.github.io/tag/somatic-mutations/</loc>
+    <loc>https://brain-discourse.github.io/publication/journal-article/brain/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://brain-discourse.github.io/publication/journal-article/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <loc>https://brain-discourse.github.io/tag/heavy-metals/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://brain-discourse.github.io/tags/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <loc>https://brain-discourse.github.io/tag/metals/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/tag/neurotoxic-effects/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/tag/neurotoxicity/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/tag/sex-specific/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/publication/journal-article/ehs/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/tag/sexual-dimorphism/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://brain-discourse.github.io/tag/academic/</loc>
@@ -144,14 +188,6 @@
   </url><url>
     <loc>https://brain-discourse.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brain-discourse.github.io/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brain-discourse.github.io/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://brain-discourse.github.io/admin/</loc>
