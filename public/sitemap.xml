@@ -2,7 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://brain-discourse.github.io/posters/aes-2022/</loc>
+    <loc>https://brain-discourse.github.io/publication-type/3/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/tag/aging/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/tag/frailty/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/publication/sarcopenia/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/tag/motor-unit/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/publication_types/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/publication/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/tag/rna-seq/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/tag/sarcopenia/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/tags/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/project/</loc>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/tag/single-cell-rna-sequencing/</loc>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/project/somoseq/</loc>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/poster/aes-2022/</loc>
     <lastmod>2022-12-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -10,7 +62,7 @@
     <lastmod>2022-12-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://brain-discourse.github.io/posters/</loc>
+    <loc>https://brain-discourse.github.io/poster/</loc>
     <lastmod>2022-12-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -18,19 +70,11 @@
     <lastmod>2022-12-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://brain-discourse.github.io/tags/</loc>
-    <lastmod>2022-12-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brain-discourse.github.io/publication-type/1/</loc>
+    <loc>https://brain-discourse.github.io/publication-type/2/</loc>
     <lastmod>2022-11-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://brain-discourse.github.io/posters/ashg-2022/</loc>
-    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brain-discourse.github.io/publication_types/</loc>
+    <loc>https://brain-discourse.github.io/poster/ashg-2022/</loc>
     <lastmod>2022-11-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -38,20 +82,32 @@
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://brain-discourse.github.io/publication-type/2/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://brain-discourse.github.io/tag/neurodevelopment/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brain-discourse.github.io/publication/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://brain-discourse.github.io/publication/brain/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/tag/cnv-calling/</loc>
+    <lastmod>2022-01-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/tag/data-analysis/</loc>
+    <lastmod>2022-01-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/tag/germline-variant-calling/</loc>
+    <lastmod>2022-01-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/tag/somatic-variant-calling/</loc>
+    <lastmod>2022-01-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/project/somatic-variant-analysis/</loc>
+    <lastmod>2022-01-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://brain-discourse.github.io/tag/heavy-metals/</loc>
@@ -82,32 +138,8 @@
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://brain-discourse.github.io/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://brain-discourse.github.io/categories/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brain-discourse.github.io/category/demo/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brain-discourse.github.io/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brain-discourse.github.io/post/getting-started/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brain-discourse.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brain-discourse.github.io/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://brain-discourse.github.io/post/2020-12-01-r-rmarkdown/</loc>
@@ -115,6 +147,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://brain-discourse.github.io/tag/plot/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/post/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -146,27 +182,10 @@
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://brain-discourse.github.io/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brain-discourse.github.io/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brain-discourse.github.io/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brain-discourse.github.io/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brain-discourse.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://brain-discourse.github.io/admin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brain-discourse.github.io/tag/skeletal-muscle./</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
