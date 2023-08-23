@@ -28,7 +28,7 @@ tags:
 title: Sex-specific neurotoxic effects of heavy metal pollutants:Epidemiological, experimental evidence and candidate mechanisms
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8478794/"
 url_poster: ""
 url_project: ""
 url_slides: ""
