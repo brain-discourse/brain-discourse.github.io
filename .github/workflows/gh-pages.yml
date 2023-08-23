@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          submodules: true  # Fetch any Git submodules (true OR recursive)
+          submodules: false  # Fetch any Git submodules (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
@@ -35,5 +35,5 @@ jobs:
         # below accordingly.
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
-          github_token: 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
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
