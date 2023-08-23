@@ -5,7 +5,7 @@
     <link>https://brain-discourse.github.io/project/</link>
       <atom:link href="https://brain-discourse.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://brain-discourse.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -13,23 +13,19 @@
     </image>
     
     <item>
-      <title>Example Project</title>
-      <link>https://brain-discourse.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://brain-discourse.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>SoMo seq - A novel method for genotype informed single cell RNA sequencing of mosaic brain tissue</title>
+      <link>https://brain-discourse.github.io/project/somoseq/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://brain-discourse.github.io/project/somoseq/</guid>
+      <description>&lt;p&gt;Post-zygotically acquired somatic variants are contributors to a range of neurological disorders. The mosaic brain tissue in individuals harboring these variants allows for the study the cell type involvement and cell type-specific effects of pathogenic variants on transcription. To leverage mosaic brain tissue to understand how somatic variants contribute to disease, we developed Somatic Mosaic single-cell RNAseq (SoMoSeq), for genotyping pathogenic variant loci and sequencing full-length cDNA in single nuclei isolated from human brain tissue. SoMoSeq is a modified version of G&amp;amp;Tseq which uses biotinylated-oligodT-conjugated streptavidin coupled magnetic beads to physically separate DNA and RNA. The resulting DNA is amplified and genotyped with TaqMan assay, while the RNA is utilized to generate full length cDNA using SMARTseq2.We evaluated the efficacy of our approach using mosaic brain tissue samples harboring known pathogenic somatic variants: PIK3CA (E545K, VAF=28%) and SLC35A2 (Y145X, VAF=10%) and three age matched autopsy/stroke controls. After nuclei isolation and fluorescence-activated nuclear sorting with neuronal marker (NeuN), we used SoMoSeq to genotype and generate cDNA from 3072 nuclei. Genotyping analysis accurately reflected the variant allele frequencies (VAF) observed in bulk nuclei in neuronal(NeuN+) and non-neuronal(NeuN-) cells. In parallel, we generated high-quality cDNA from single nuclei (average yield of 1ng/L). From the NeuN+ and NeuN- populations, we selected 96 cells positive/negative for the variants (N=384/sample) and sequenced them at a depth of 8-10M reads/cell. Approximately 10,000 genes/nucleus were detected with an average mitochondrial read percentage of 3%, indicating the high quality of the data. We also observed significant upregulation of the mTOR signaling pathway in the PIK3CA sample compared to controls and evidence of the enrichment of mutations in NeuN- cell types in the mosaic SLC35A2 brain tissue. These findings align with those reported in literature and further validate the accuracy and significance of our method for investigating the effects of pathogenic somatic mutations on cell type-specific transcriptional profiles. Data integration of full length RNAseq with publicly available datasets from human cortex allowing for the classification of specific cell types harboring variant alleles are ongoing. SoMoSeq is a powerful approach that allows for precise identification of specific cell types harboring somatic variants and the ability to study cell type-specific autonomous and non-cell autonomous transcriptional effects of the variant in human brain tissue.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>https://brain-discourse.github.io/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://brain-discourse.github.io/project/external-project/</guid>
+      <title>Somatic variants in focal cortical malformations</title>
+      <link>https://brain-discourse.github.io/project/somatic-variant-analysis/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://brain-discourse.github.io/project/somatic-variant-analysis/</guid>
       <description></description>
     </item>
     

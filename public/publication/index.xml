@@ -5,12 +5,20 @@
     <link>https://brain-discourse.github.io/publication/</link>
       <atom:link href="https://brain-discourse.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://brain-discourse.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://brain-discourse.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Longitudinal transcriptomic analysis of mouse sciatic nerve reveals pathways associated with age-related muscle pathology</title>
+      <link>https://brain-discourse.github.io/publication/sarcopenia/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://brain-discourse.github.io/publication/sarcopenia/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Somatic variants in diverse genes leads to a spectrum of focal cortical malformations</title>
