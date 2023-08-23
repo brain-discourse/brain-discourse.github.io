@@ -86,12 +86,12 @@ sections:
     filters:
       exclude_featured: true
       folders:
-      - Posters
+      - poster
     title: Posters
   design:
     columns: "2"
     view: card
-  id: Posters
+  id: poster
 - block: contact
   content:
     address:
