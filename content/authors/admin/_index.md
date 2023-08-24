@@ -20,6 +20,7 @@ interests:
 - Neuroscience
 - Genomics
 - Computational Biology
+- Single cell RNA seq
 last_name: Gade
 organizations:
 - name: UNC Chapel Hill

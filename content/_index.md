@@ -9,15 +9,16 @@ sections:
 - block: features
   content:
     items:
-    - description: 
-      icon: r-project
-      icon_pack: fab
-      name: R
-    - description: 
-      icon: python
-      icon_pack: fab
-      name: Python
-    - description: 
+    - description:  R, Python, bash
+      icon: code
+      icon_pack: fas
+      name: Programming 
+  
+    - description: DESeq2, Scanpy, Seurat, GATK, Mutect2, CNVRadar
+      icon: chart-line
+      icon_pack: fas
+      name: Data Analysis
+    - description: 10x Genomics, SMARTSeq, Library Prep, PCR
       icon: dna
       icon_pack: fas
       name: Molecular Biology
@@ -79,7 +80,7 @@ sections:
     title: Publications
   design:
     columns: "2"
-    view: citation
+    view: publication
   id: publication
 - block: collection
   content:
@@ -90,7 +91,7 @@ sections:
     title: Posters
   design:
     columns: "2"
-    view: card
+    view: citation
   id: poster
 - block: contact
   content:

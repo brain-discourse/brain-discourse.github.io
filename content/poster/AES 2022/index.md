@@ -21,11 +21,6 @@ image:
   caption: 'AES 2022 Annual Meeting'
   focal_point: Right
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/meethilagade1
-location: Nashville
 projects:
 - example
 publication: At  *AES 2022 Annual Meeting*
@@ -36,7 +31,7 @@ summary: ""
 tags: [Somatic mutations, Epilepsy]
 title: Determining Single-cell Transcriptomic Signatures in Mosaic Epileptogenic Human Brain Tissue
 url_code: ""
-url_pdf: Poster_AES.pdf
+url_poster: Poster_AES.pdf
 url_slides: ""
 url_video: ""
 ---
