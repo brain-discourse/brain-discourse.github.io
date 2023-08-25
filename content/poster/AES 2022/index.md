@@ -17,7 +17,7 @@ event: American Epilepsy Society Annual Meeting 2022
 event_url: https://cms.aesnet.org/abstractslisting/determining-single-cell-transcriptomic-signatures-in-mosaic-epileptogenic-human-brain-tissue
 featured: false
 image:
-  picture: aes2023.jpeg
+  picture: content/poster/AES 2022/featured.jpeg
   caption: 'AES 2022 Annual Meeting'
   focal_point: Right
 links:
