@@ -37,6 +37,8 @@
   {{ end -}}
 
   <div class="page-header header--fixed">
+    
+  </header>
   {{/* Load header block */}}
   {{ $block_name := .Params.header.navbar.block | default site.Params.header.navbar.block | default "navbar" }}
   {{ $block_path := printf "components/headers/%s.html" $block_name }}

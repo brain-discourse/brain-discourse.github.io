@@ -49,17 +49,19 @@ social:
   icon_pack: ai
   link: uploads/resume.pdf
 status:
-  icon: ☕️
+  icon: |
 superuser: true
-title: Meethila Gade
-
+title: Meethila Gade!
+subtitle: Welcome to my website 
 
 ---------
 
  
 Hello! I am a 4th year PhD student in the Heinzen Lab at the Eshelman School of Pharmacy, UNC Chapel Hill. My current research involves studying the role of somatic mutations in neurodevelopmental disorders using single cell RNA sequencing. 
 
-I am passionate about neuroscience, genomics and computational biology. With a background in pharmaceutical and environmental health sciences, I am driven by a strong desire to make a meaningful impact on patient lives.  
+I am passionate about neuroscience, genomics and computational biology. With a background in pharmaceutical and environmental health sciences, I am driven by a strong desire to make a meaningful impact on patient lives. 
+
+When I am not in the lab, I enjoy cooking, reading, watching anime, and trying new restaurants in the area. 
 
 
 
