@@ -1,31 +1,34 @@
 ---
-bio: My research interests include neuroscience, genomics and computational biology.
+bio: Computational biologist specializing in single-nucleus multi-omics, clinical genomics, and translational biomarker discovery.
 
 
 education:
   courses:
-  - course: PhD in Pharmaceutical Sciences
+  - course: Ph.D. in Pharmaceutical Sciences
     institution: UNC Chapel Hill
-    year: 2025
-  - course: MPH in Environmental Health Sciences (Toxicology)
+    year: 2026
+  - course: M.P.H. in Environmental Health Sciences (Toxicology)
     institution: Columbia University
     year: 2020
-  - course: BSc. Life Sciences
+  - course: Post Graduate Diploma in Clinical Research
+    institution: St. Xavier's College
+    year: 2018
+  - course: B.Sc. in Biology & Chemistry
     institution: University of Delhi, India
     year: 2017
 email: meethilagade@gmail.com
 first_name: Meethila
 highlight_name: true
 interests:
-- Neuroscience
-- Genomics
-- Computational Biology
-- Single cell RNA seq
+- Computational Biology & Bioinformatics
+- Single-Cell / Single-Nucleus Multi-Omics
+- Clinical & Statistical Genomics
+- Reproducible NGS Pipeline Development
 last_name: Gade
 organizations:
 - name: UNC Chapel Hill
   url: https://pharmacy.unc.edu/research/faculty-labs/erin-heinzen/
-role: Doctoral Student
+role: Computational Biologist / Bioinformatics Scientist
 social:
 - icon: envelope
   icon_pack: fas
@@ -51,18 +54,17 @@ social:
 status:
   icon: |
 superuser: true
-title: Meethila Gade!
-subtitle: Welcome to my website 
+title: Meethila Gade
+subtitle: Computational Biologist / Bioinformatics Scientist
 
----------
+---
 
- 
-Hello! I am a 4th year PhD student in the Heinzen Lab at the Eshelman School of Pharmacy, UNC Chapel Hill. My current research involves studying the role of somatic mutations in neurodevelopmental disorders using single cell RNA sequencing. 
+Hi, I'm Meethila. I'm completing a Ph.D. in Pharmaceutical Sciences in the Heinzen Lab at UNC Chapel Hill's Eshelman School of Pharmacy, where my dissertation work integrates variant discovery, genotype-resolved single-nucleus multi-omics, and scalable NGS pipeline development to understand how somatic mosaicism shapes cell state and disease phenotype in the human brain. A core piece of that work is **SoMoSeq**, a method I developed to link somatic genotype directly to transcriptional state in the same single nucleus.
 
-I am passionate about neuroscience, genomics and computational biology. With a background in pharmaceutical and environmental health sciences, I am driven by a strong desire to make a meaningful impact on patient lives. 
+I came into computational biology through a hybrid path: formal training in pharmaceutical and environmental health sciences (M.P.H., Columbia), a research background that started at the bench, and a PhD spent building the computational, statistical, and machine learning skills to analyze the data I was generating. Along the way I've worked as a computational biology intern at **Biogen**, building QC standards and cell-type annotation across a 3.5M-cell CNS atlas spanning four neurodegenerative disease programs, and at **Regeneron's VelociGene** group, integrating transcriptomic and imaging data for target evaluation.
 
-When I am not in the lab, I enjoy cooking, reading, watching anime, and trying new restaurants in the area. 
+I'm now looking for my next role in industry, applying computational and statistical methods to genomic and multi-omic data in translational or clinical research settings. My projects and publications below give a fuller picture of the work; my [CV](uploads/resume.pdf) has the details.
 
-
+Outside of research, I enjoy cooking, reading, and trying new restaurants.
 
 {style="text-align: justify;"}

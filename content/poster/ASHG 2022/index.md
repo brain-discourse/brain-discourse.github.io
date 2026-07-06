@@ -13,7 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 projects:
-- example
+- SoMoseq
 publication: At  *ASHG 2022 Annual Meeting*
 publication_short: At *ASHG 2022*
 publication_types:

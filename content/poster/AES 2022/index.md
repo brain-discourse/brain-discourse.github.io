@@ -22,7 +22,7 @@ image:
   focal_point: Right
 links:
 projects:
-- example
+- SoMoseq
 publication: At  *AES 2022 Annual Meeting*
 publication_short: At *AES 2022*
 publishDate: "2022-12-01T00:00:00Z"
