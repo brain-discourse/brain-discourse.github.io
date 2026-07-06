@@ -28,9 +28,9 @@ tags:
 - Somatic mutations
 - Loss of heterozygosity
 - Epilepsy
-url_slides: ASHG2024-LOH-HMEG.pptx
+url_slides: ""
 url_code: ""
-url_pdf: ""
+url_pdf: ASHG2024-LOH-HMEG.pdf
 url_video: ""
 slides: ""
 projects:

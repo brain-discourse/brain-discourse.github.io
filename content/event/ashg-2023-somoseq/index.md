@@ -28,9 +28,9 @@ tags:
 - Single cell RNA sequencing
 - Somatic mutations
 - Epilepsy
-url_slides: ASHG2023-SoMoSeq.pptx
+url_slides: ""
 url_code: ""
-url_pdf: ""
+url_pdf: ASHG2023-SoMoSeq.pdf
 url_video: ""
 slides: ""
 projects:
