@@ -18,9 +18,10 @@ publishDate: "2026-01-01T00:00:00Z"
 slides: ""
 summary: A method for genotype-informed single-nucleus RNA sequencing of mosaic brain tissue.
 tags:
-- Single cell RNA sequencing
+- Single nucleus RNA sequencing
 - Somatic mutations
 - Epilepsy
+- multi-omics
 title: "SoMoSeq: A Method for Genotype-Informed Single-Nucleus RNA Sequencing of Mosaic Brain Tissue"
 url_code: ""
 url_dataset: ""

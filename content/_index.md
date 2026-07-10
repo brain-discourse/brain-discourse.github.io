@@ -1,10 +1,10 @@
 ---
 date: "2026-07-06"
 sections:
-- block: about.biography
+- block: about
   content:
     title: About Me
-    username: admin
+    author: admin
   id: about
 - block: experience
   content:
@@ -15,7 +15,7 @@ sections:
       company: UNC Chapel Hill \| Heinzen Lab, Eshelman School of Pharmacy
       company_url: 'https://pharmacy.unc.edu/research/faculty-labs/erin-heinzen/'
       location: Chapel Hill, NC
-      date_start: '2020-01-01'
+      date_start: '2020-08-01'
       date_end: '2026-05-01'
       description: |2-
           Integrated experimental and computational omics approaches to study how mosaic genotype influences cell state and disease phenotype in human brain tissue.
@@ -53,30 +53,30 @@ sections:
   content:
     title: Technical Skills
     items:
-    - name: Programming & Statistics
+    - name: Programming & Quantitative Analysis
       icon: code
       icon_pack: fas
-      description: 'R, Python, Bash, SQL; mixed-effects/hierarchical models, covariate-adjusted association testing, classification & regression (lme4, scikit-learn), variant burden testing'
+      description: 'R, Python, Bash, SQL; mixed-effects and hierarchical models; covariate-adjusted association testing; classification and regression; variant burden testing'
     - name: Transcriptomics
       icon: chart-line
       icon_pack: fas
-      description: 'Bulk & single-cell/nucleus RNA-seq/ATAC-seq; alignment (STAR, kallisto, Cell Ranger), QC, batch correction, clustering & annotation (Seurat, Scanpy, popV), differential expression (limma, edgeR, DESeq2, MAST, dreamlet)'
+      description: 'Bulk and single-cell/single-nucleus RNA-seq and ATAC-seq; alignment and quantification; QC; batch correction; clustering and annotation; differential expression and pathway analysis'
     - name: Multi-Omics
       icon: layer-group
       icon_pack: fas
-      description: 'Genotype-expression linkage, donor/batch-aware pseudobulk analysis, cell-state discovery via variational inference (scVI-tools, scANVI, WGCNA), gene regulatory network inference (SCENIC)'
+      description: 'Genotype-expression linkage; donor- and batch-aware pseudobulk analysis; cell-state and gene program analysis; gene regulatory network inference'
     - name: Genomic Analysis
       icon: dna
       icon_pack: fas
-      description: 'WES/WGS/duplex sequencing processing, somatic/germline variant calling, CNV/LOH/SV identification, variant prioritization (GATK, Mutect2, BWA, MoChA, ANNOVAR)'
+      description: 'WES, WGS, and duplex sequencing processing; somatic and germline variant calling; CNV, LOH, and structural variant analysis; variant annotation and interpretation'
     - name: Compute & Reproducibility
       icon: server
       icon_pack: fas
-      description: 'HPC/Slurm, containerized environments, workflow orchestration (Nextflow), cloud fundamentals (AWS S3, Batch), Git, Conda, Singularity, R Shiny'
+      description: 'HPC/Slurm; containerized environments; workflow orchestration; cloud fundamentals; version control; reproducible reporting'
     - name: Experimental / Wet Lab
       icon: flask
       icon_pack: fas
-      description: 'Nuclei isolation, Smart-seq2, NGS library prep, WGA/PTA/MDA/PicoPLEX, TaqMan & digital PCR, flow cytometry, tissue dissociation, immunofluorescence/confocal microscopy'
+      description: 'Nuclei isolation; Smart-seq2; NGS library preparation; whole-genome amplification; TaqMan and digital PCR; flow cytometry; tissue dissociation; immunofluorescence and confocal microscopy'
   id: skills
 - block: portfolio
   content:
@@ -106,7 +106,7 @@ sections:
     title: Publications
   design:
     columns: "2"
-    view: publication
+    view: citation
   id: publication
 - block: collection
   content:
@@ -171,11 +171,11 @@ sections:
 - block: contact
   content:
     address:
-      city: Chapel Hill
+      city: ""
       country: United States
       country_code: US
       postcode: ""
-      region: NC
+      region: United States
       street: ""
     appointment_url: ""
     autolink: true
@@ -190,7 +190,7 @@ sections:
       name: See my code
     email: meethilagade@gmail.com
     subtitle: null
-    text: "I'm currently completing my PhD and looking for my next role in computational biology / bioinformatics in industry. Feel free to reach out:"
+    text: "I am currently seeking research-based roles in computational biology, clinical genomics, biomarker discovery, or target evaluation. I’d be happy to connect at:"
     title: Contact
   design:
     columns: "2"

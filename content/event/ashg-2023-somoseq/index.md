@@ -3,22 +3,29 @@ title: "SoMoSeq: A Method for Genotype-Informed Single-Cell RNA-Seq of Mosaic Br
 authors:
 - admin
 - Dulcie Lai
-- Erin Heinzen
+- Brenda E Porter
+- Annapurna H Poduri
+- Hyejung Won
+- Won Ma
+- Erin L Heinzen
 event: American Society of Human Genetics (ASHG) 2023 Annual Meeting
 event_url: https://www.ashg.org/meetings/2023meeting/
 location: Walter E. Washington Convention Center
 address:
   street: 801 Mt Vernon Pl NW
   city: Washington
+  postcode: ""
   region: DC
-  postcode: "20001"
   country: United States
 summary: Platform presentation introducing SoMoSeq, a genotype-informed single-nucleus DNA + RNA method for studying somatic mosaicism in human brain tissue.
-abstract: SoMoSeq (Somatic Mosaicism Sequencing) pairs single-nucleus genotyping with full-length cDNA sequencing to link somatic variant status directly to transcriptional state in the same nucleus. Applied to mosaic brain tissue from hemimegalencephaly (PIK3CA) and focal cortical dysplasia type I (SLC35A2) cases alongside neurotypical controls, the method resolves cell-type-specific variant burden and detects mutation-associated transcriptional signatures - including mTOR pathway upregulation - while confirming the early developmental origin of the pathogenic variants across neuronal and non-neuronal lineages.
-date: "2023-11-01T00:00:00Z"
-date_end: "2023-11-05T00:00:00Z"
+abstract: |
+  Post-zygotically acquired somatic variants are contributors to a range of neurological disorders. The mosaic brain tissue in individuals harboring these variants allows for the study the cell type involvement and cell type-specific effects of pathogenic variants on transcription. To leverage mosaic brain tissue to understand how somatic variants contribute to disease, we developed Somatic Mosaic single-cell RNAseq (SoMoSeq), for genotyping pathogenic variant loci and sequencing full-length cDNA in single nuclei isolated from human brain tissue. SoMoSeq is a modified version of G&Tseq which uses biotinylated-oligodT-conjugated streptavidin coupled magnetic beads to physically separate DNA and RNA. The resulting DNA is amplified and genotyped with TaqMan assay, while the RNA is utilized to generate full length cDNA using SMARTseq2. We evaluated the efficacy of our approach using mosaic brain tissue samples harboring known pathogenic somatic variants: *PIK3CA* (p.E545K, VAF=28%) and *SLC35A2* (p.Y145X, VAF=10%) and three age matched autopsy/stroke controls. After nuclei isolation and fluorescence-activated nuclear sorting with neuronal marker (NeuN), we used SoMoSeq to genotype and generate cDNA from 3072 nuclei. Genotyping analysis accurately reflected the variant allele frequencies (VAF) observed in bulk nuclei in neuronal(NeuN+) and non-neuronal(NeuN-) cells. In parallel, we generated high-quality cDNA from single nuclei (average yield of 1ng/uL). From the NeuN+ and NeuN- populations, we selected 96 cells positive/negative for the variants (N=384/sample) and sequenced them at a depth of 8-10M reads/cell. Approximately 10,000 genes/nucleus were detected with an average mitochondrial read percentage of 3%, indicating the high quality of the data. We also observed significant upregulation of the mTOR signaling pathway in the PIK3CA sample compared to controls and evidence of the enrichment of mutations in NeuN- cell types in the mosaic SLC35A2 brain tissue. Cell type involvement results align with those reported in literature and further validate the accuracy and significance of our method for investigating the effects of pathogenic somatic mutations on cell type-specific transcriptional profiles. Data integration of full length RNAseq with publicly available datasets from human cortex allowing for the classification of specific cell types harboring variant alleles are ongoing. SoMoSeq is a powerful approach that allows for precise identification of specific cell types harboring somatic variants and the ability to study cell type-specific autonomous and non-cell autonomous transcriptional effects of the variant in human brain tissue.
+date: "2023-11-02T00:00:00Z"
+date_end: "2023-11-02T00:00:00Z"
 all_day: true
-publishDate: "2023-11-01T00:00:00Z"
+publication: ASHG 2023 Annual Meeting
+publication_short: ASHG 2023 Annual Meeting
+publishDate: "2023-11-02T00:00:00Z"
 featured: true
 image:
   caption: ""
@@ -28,9 +35,9 @@ tags:
 - Single cell RNA sequencing
 - Somatic mutations
 - Epilepsy
-url_slides: ""
+url_slides: ASHG2023-SoMoSeq.pdf
 url_code: ""
-url_pdf: ASHG2023-SoMoSeq.pdf
+url_pdf: ""
 url_video: ""
 slides: ""
 projects:

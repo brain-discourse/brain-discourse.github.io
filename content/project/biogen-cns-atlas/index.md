@@ -1,6 +1,6 @@
 ---
-title: "Cross-Disease CNS Single-Cell Reference Atlas"
-summary: Built during a computational biology internship at Biogen — standardized cell-type annotation and QC across 3.5M+ cells spanning four neurodegenerative disease programs, integrated with public brain references for cross-disease biomarker discovery.
+title: "CNS Single-Nucleus Reference Atlas for Cell-Type Annotation"
+summary: Built a unified cortical reference atlas from published single-nucleus RNA-seq datasets to evaluate cell-type annotation robustness in human brain single-nucleus multi-omic data.
 authors:
 - admin
 tags:
@@ -8,7 +8,7 @@ tags:
 - Data analysis
 - Multi-omics
 categories: []
-date: "2023-08-01T00:00:00Z"
+date: "2025-05-01T00:00:00Z"
 external_link: ""
 image:
   caption: ""
@@ -19,7 +19,6 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 slides: ""
+bibliography: references.bib
 ---
-As a Computational Biology Intern at Biogen (Summer 2023), I worked across four neurodegenerative disease programs - ALS, Alzheimer's disease, Parkinson's disease, and multiple sclerosis - to standardize how single-cell RNA-seq data was annotated and quality-controlled across therapeutic-area teams. Each program had accumulated 10x Genomics scRNA-seq data (3.5M+ cells total) using inconsistent cell-type nomenclature and QC thresholds, which made cross-disease comparison and reuse difficult.
-
-I established a standardized cell-type annotation nomenclature and QC thresholding scheme applied consistently across all four programs, improving interpretability and enabling 3+ therapeutic-area teams to reuse existing datasets rather than re-annotating from scratch. I then integrated large-scale public references - the Allen Brain Atlas, CELLxGENE, and GTEx - with the internal scRNA-seq data to support a comprehensive CNS reference atlas, enabling cross-disease cell-state and pathway analyses aimed at translational biomarker discovery.
+As part of my doctoral work, I built a reference label transfer framework to evaluate the robustness of cell-type annotation in human cortical single-nucleus RNA-seq data. The goal was not to replace primary marker-based annotations, but to use independent reference-derived labels as a diagnostic comparison for annotation confidence and downstream genotype-resolved transcriptomic interpretation. I constructed a unified, region-matched cortical reference atlas from publicly available transcript-end and full-length single-nucleus RNA-seq datasets, including Siletti et al.,[@siletti2023] Zhu et al.,[@zhu2023] Hodge et al.,[@hodge2019] and Tasic et al.[@tasic2018] Only cortical samples from donors under 30 years old were retained to support consistent comparison across studies. Reference datasets were processed using standardized QC thresholds and normalization, then integrated with Harmony.[@korsunsky2019] The resulting atlas used consistent cell-type nomenclature and provided an independent sensitivity check for cell-type identity, annotation robustness, and interpretation of genotype-resolved expression patterns in mosaic human brain tissue.

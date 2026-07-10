@@ -22,11 +22,20 @@
 {{ $useHeaderRow := (eq (lower (.Get "header")) "true") | default true }}
 {{ $caption := .Get "caption" }}
 
+{{/* getCSV was removed from Hugo; use resources.GetRemote / page resources + transform.Unmarshal instead. */}}
 {{ $is_remote := strings.HasPrefix $src "http" }}
-{{ if not $is_remote }}
-  {{ $src = path.Join  "content" $.Page.File.Dir $src }}
+{{ $rows := slice }}
+{{ if $is_remote }}
+  {{ with resources.GetRemote $src }}
+    {{ $rows = . | transform.Unmarshal (dict "delimiter" $delimiter) }}
+  {{ end }}
+{{ else }}
+  {{ with $.Page.Resources.Get $src }}
+    {{ $rows = . | transform.Unmarshal (dict "delimiter" $delimiter) }}
+  {{ else }}
+    {{ errorf "table shortcode: could not find page resource %q for page %q" $src $.Page.File.Path }}
+  {{ end }}
 {{ end }}
-{{ $rows := getCSV $delimiter $src }}
 
 <table class="table">
   {{ if $useHeaderRow }}

@@ -14,7 +14,7 @@ education:
     institution: St. Xavier's College
     year: 2018
   - course: B.Sc. in Biology & Chemistry
-    institution: University of Delhi, India
+    institution: University of Delhi
     year: 2017
 email: meethilagade@gmail.com
 first_name: Meethila
@@ -22,8 +22,8 @@ highlight_name: true
 interests:
 - Computational Biology & Bioinformatics
 - Single-Cell / Single-Nucleus Multi-Omics
-- Clinical & Statistical Genomics
-- Reproducible NGS Pipeline Development
+- Clinical Genomics, Variant Calling & Interpretation
+- Reproducible NGS Workflow Development
 last_name: Gade
 organizations:
 - name: UNC Chapel Hill
@@ -55,16 +55,20 @@ status:
   icon: |
 superuser: true
 title: Meethila Gade
-subtitle: Computational Biologist / Bioinformatics Scientist
+subtitle: Computational Biology & Translational Genomics 
 
 ---
 
-Hi, I'm Meethila. I'm completing a Ph.D. in Pharmaceutical Sciences in the Heinzen Lab at UNC Chapel Hill's Eshelman School of Pharmacy, where my dissertation work integrates variant discovery, genotype-resolved single-nucleus multi-omics, and scalable NGS pipeline development to understand how somatic mosaicism shapes cell state and disease phenotype in the human brain. A core piece of that work is **SoMoSeq**, a method I developed to link somatic genotype directly to transcriptional state in the same single nucleus.
+Hi, I’m Meethila. I work at the intersection of clinical genomics and translational discovery, using scalable data analysis to turn complex genomic data into biologically actionable insights. My problem-solving approach focuses on reproducible workflows, careful method implementation, and diagnostic checks to separate clinically relevant signal from noise. I am especially interested in understanding how genetic variation shapes cell state, molecular programs, and phenotype at a systems level.
 
-I came into computational biology through a hybrid path: formal training in pharmaceutical and environmental health sciences (M.P.H., Columbia), a research background that started at the bench, and a PhD spent building the computational, statistical, and machine learning skills to analyze the data I was generating. Along the way I've worked as a computational biology intern at **Biogen**, building QC standards and cell-type annotation across a 3.5M-cell CNS atlas spanning four neurodegenerative disease programs, and at **Regeneron's VelociGene** group, integrating transcriptomic and imaging data for target evaluation.
+I received my Ph.D. in Pharmaceutical Sciences under the mentorship of Dr. Erin Heinzen at UNC Chapel Hill’s Eshelman School of Pharmacy in May 2026. My doctoral research focused on somatic mosaicism in the human brain and integrated variant discovery, CNV/LOH analysis, single-nucleus multi-omics, donor- and batch-aware transcriptomic modeling, and scalable NGS workflow development to improve the interpretation of rare genetic findings. A core piece of that work is SoMoSeq, a genotype-resolved single-nucleus DNA + RNA approach I developed to link somatic genotype directly to transcriptional state in the same nucleus.
 
-I'm now looking for my next role in industry, applying computational and statistical methods to genomic and multi-omic data in translational or clinical research settings. My projects and publications below give a fuller picture of the work; my [CV](uploads/resume.pdf) has the details.
+My background combines formal training in pharmaceutical and environmental health sciences with decade-long research experience spanning bench science, computational biology, and translational genomics. This includes industry experience at Biogen and Regeneron, where I worked on single-cell data harmonization, target evaluation, and omics analysis to support biomarker discovery. My academic training at UNC and Columbia also gave me a foundation in pharmacology, drug development, and quantitative dose-response analysis.
 
-Outside of research, I enjoy cooking, reading, and trying new restaurants.
+What excites me most about computational biology is the challenge of using high-dimensional data to inform clinical and translational questions. I enjoy working through complex, interconnected biological systems and distilling the results into their biological meaning and potential impact for scientists, clinicians, collaborators, and broader audiences.
+
+I am now seeking research-based roles applying computational methods to genomic, single-cell, and multi-omic data in translational research, clinical genomics, biomarker discovery, or target evaluation. Selected projects and publications are highlighted below, with additional details available in my [resume](uploads/resume.pdf) has the details.
+
+Outside of research, I enjoy cooking, reading, hiking, and exploring new cuisines.
 
 {style="text-align: justify;"}

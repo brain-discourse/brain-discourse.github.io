@@ -31,16 +31,14 @@ summary: ""
 tags:
 - RNA-seq
 - aging
-- frailty
-- motor unit
+- motor neurons
 - sarcopenia
-- skeletal muscle.
+- skeletal muscle
 title: Longitudinal transcriptomic analysis of mouse sciatic nerve reveals pathways associated with age-related muscle pathology
 url_code: ""
 url_dataset: ""
 url_pdf: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10235898/"
 url_poster: ""
-url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""

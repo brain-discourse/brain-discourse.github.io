@@ -4,21 +4,18 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 'Meethila Gade'  # Website name
-baseURL: 'https://brain-discourse.github.io/' # Website URL
+title: 'Meethila Gade'  
+baseURL: 'https://brain-discourse.github.io/' 
 
-############################
-## LANGUAGE
-############################
+#LANGUAGE
+
 
 defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
-############################
-## MODULES
-############################
+#MODULES
 
 module:
   imports:
@@ -26,10 +23,6 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
-
-############################
-## ADVANCED
-############################
 
 enableGitInfo: false
 summaryLength: 30
